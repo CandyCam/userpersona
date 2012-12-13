@@ -10,7 +10,7 @@
 /* Hidden */
 .navbar .container { display:none; }
 
-#snapshot {}
+#snapshot { border-bottom: 0.3em solid #333;}
 #snapshot h1#archetypeTitle {background: #000; color: #fff; font-size: 1em; line-height: 1em; margin:0; padding:0.5em 0.5em; }
 #snapshot h2 { color:#c00; }
 #snapshot h3 { 
@@ -34,6 +34,17 @@
 	line-height: 1em;
 }
 
+.graphcat {
+	display: block;
+	font-weight: bold
+}
+.graphbar {
+	display: block;
+	background: #ddd;
+	height: 1em;
+	width: 100%;
+	margin-bottom:0.5em;
+}
 
 
 
