@@ -26,8 +26,9 @@
 	margin-bottom: 1em;
 }
 
-#overview h2 { color:#c00; }
+#overview h2 { }
 #overview #leadin {
+	color:#c00;
 	font-size: 3em;
 	font-weight: normal;
 	line-height: 1em;
