@@ -4,8 +4,34 @@
    Author's custom styles
    ========================================================================== */
 
+/* Colors */
+.red { color:#c00; }
 
+/* Hidden */
+.navbar .container { display:none; }
 
+#snapshot {}
+#snapshot h1#archetypeTitle {background: #000; color: #fff; font-size: 1em; line-height: 1em; margin:0; padding:0.5em 0.5em; }
+#snapshot h2 { color:#c00; }
+#snapshot h3 { 
+	font-size: 1em;
+	margin-bottom: 0.5em;
+	padding: 0;
+	line-height: 1em;
+}
+.category {}
+#snapshot img.profile {
+	width:100%;
+	max-width: 100%;
+	margin-bottom: 1em;
+}
+
+#overview h2 { color:#c00; }
+#overview #leadin {
+	font-size: 3em;
+	font-weight: normal;
+	line-height: 1em;
+}
 
 
 
